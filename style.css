@@ -1,0 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div,h1{
+    color: rgb(29, 120, 199);
+    font-size: 6rem;
+}
